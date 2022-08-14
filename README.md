@@ -1,1 +1,1 @@
-dmenu, dwm, st my buils
+my builds of dmenu, dwm, st
